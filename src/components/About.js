@@ -14,7 +14,7 @@ const About = () => {
                     <p>Hi I'm Arshpreet Singh, Nice to meet you. Please take a look around and hit me up!</p>
                   </div>
                   <div>
-                    <p className='font-semibold '>Currently pursuing my Masters of Engineering in Systems and Technology from McMaster University. I'm passionate about building software that improves lives of humans. In the past, I worked for <a  className=" text-xl"href='https://www.nagarro.com/en'>Nagarro</a> where I was working on building cloud infrastructure using code and automating some of the cloud services. I have diverse experience with AWS and some of the devops tools.  Always embracing new learning opportunities, taking new challenges and working passionately. I'm highly adaptable having demonstrated ability to learn new skills at fast pace. I enjoy playing drums when free.</p>
+                    <p className='font-semibold '>Currently pursuing my Masters of Engineering in Systems and Technology from McMaster University. I'm passionate about building software that improves lives of humans. In the past, I worked for <a  className=" text-xl"href='https://www.nagarro.com/en'>Nagarro</a> where I was working on building cloud infrastructure using code and automating some of the cloud services. Always embracing new learning opportunities, taking new challenges and working passionately. I'm highly adaptable having demonstrated ability to learn new skills at fast pace.</p>
                   </div>
 
                 </div>
