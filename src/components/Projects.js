@@ -11,7 +11,7 @@ const Projects = () => {
                 <p className='py-6'>// Check out some of my recent projects</p>
             </div>
             {/**container */}
-            <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+            <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4 px-12 sm:px-0'>
                 {/** grid iteem */}
                 <div 
                   style={{ backgroundImage: `url(${FoodVilla})`}} 
@@ -22,10 +22,10 @@ const Projects = () => {
                             Food Villa Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://cerulean-semolina-fc7c01.netlify.app'>
+                            <a target="_blank" href='https://cerulean-semolina-fc7c01.netlify.app'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/arshpreetsingh3/food-villa'>
+                            <a target="_blank" href='https://github.com/arshpreetsingh3/food-villa'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -40,10 +40,10 @@ const Projects = () => {
                            Youtube Clone
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://cute-salmiakki-9bcf36.netlify.app'>
+                            <a target="_blank" href='https://cute-salmiakki-9bcf36.netlify.app'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://github.com/arshpreetsingh3/youtube-clone'>
+                            <a target="_blank" href='https://github.com/arshpreetsingh3/youtube-clone'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
