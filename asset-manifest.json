@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fe85a336.css",
-    "main.js": "/portfolio/static/js/main.2b3b1117.js",
+    "main.css": "/portfolio/static/css/main.1ac565db.css",
+    "main.js": "/portfolio/static/js/main.7f04ae65.js",
     "static/js/787.128fc6e9.chunk.js": "/portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/youtubeClone.jpg": "/portfolio/static/media/youtubeClone.4e4b0a7b4e755e0e6fc5.jpg",
     "static/media/FoodVilla.jpg": "/portfolio/static/media/FoodVilla.94ac627d8c7009f5dd8b.jpg",
+    "static/media/Arshpreet_Singh.pdf": "/portfolio/static/media/Arshpreet_Singh.aaeb13b2974968e9768c.pdf",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/nagarro.png": "/portfolio/static/media/nagarro.51024babd4d35bcd02e6.png",
     "static/media/aws.png": "/portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
@@ -15,12 +16,12 @@
     "static/media/Python.png": "/portfolio/static/media/Python.433a00a09a48ba5f8f58.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.fe85a336.css.map": "/portfolio/static/css/main.fe85a336.css.map",
-    "main.2b3b1117.js.map": "/portfolio/static/js/main.2b3b1117.js.map",
+    "main.1ac565db.css.map": "/portfolio/static/css/main.1ac565db.css.map",
+    "main.7f04ae65.js.map": "/portfolio/static/js/main.7f04ae65.js.map",
     "787.128fc6e9.chunk.js.map": "/portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe85a336.css",
-    "static/js/main.2b3b1117.js"
+    "static/css/main.1ac565db.css",
+    "static/js/main.7f04ae65.js"
   ]
 }
