@@ -17,11 +17,11 @@ const WorkExperience = () => {
         <a href='https://www.nagarro.com/en'>
         <img className="w-20 p-1 m-1 mx-0 bg-white" src={Nagarro} alt="nagarro" />
         </a><h3 class="text-lg font-semibold text-gray-900 dark:text-white">Engineer</h3>
-        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-            <li> - Developed ETL flows and transformed data using SQL along with PySpark and Hive</li>
-            <li> - Developed functional flows using AWS Stepfunctions to integrate AWS Lambdas reducing dev time</li>
-            <li> - Configured code pipelines for end to end deployment of Lambdas and Stepfunctions</li>
-            <li> - Collaborated with other engineering teams to outline the DevOps execution strategy</li>
+        <p class="mb-4 text-base font-extralight text-gray-500 dark:text-gray-400">
+            <li className='font-extralight'> - Developed ETL flows and transformed data using SQL along with PySpark and Hive</li>
+            <li className='font-extralight'> - Developed functional flows using AWS Stepfunctions to integrate AWS Lambdas reducing dev time</li>
+            <li className='font-extralight'>- Configured code pipelines for end to end deployment of Lambdas and Stepfunctions</li>
+            <li className='font-extralight'> - Collaborated with other engineering teams to outline the DevOps execution strategy</li>
         </p>
     </li>
     <li class="mb-10 ml-4">
@@ -31,12 +31,12 @@ const WorkExperience = () => {
         <img className="w-20 p-1 m-1 mx-0 bg-white" src={Nagarro} alt="nagarro" />
         </a>
         <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Associate Engineer</h3>
-        <p class="text-base font-normal text-gray-500 dark:text-gray-400"> 
+        <p class="text-base font-extralight text-gray-500 dark:text-gray-400"> 
         
-            <li> - Spearheaded the development and deployment of cloud-based architecture (AWS Cloud Development Kit) using Python</li>
-            <li> - Deployed Code Pipelines running across different environments</li>
-            <li> - Automated AWS Gluejobs and AWS Stepfunctions reducing manual effort by more than 90%</li>
-            <li> - Contributed to different Proof of Concepts</li>
+            <li className='font-extralight'> - Spearheaded the development and deployment of cloud-based architecture (AWS Cloud Development Kit) using Python</li>
+            <li className='font-extralight'> - Deployed Code Pipelines running across different environments</li>
+            <li className='font-extralight' > - Automated AWS Gluejobs and AWS Stepfunctions reducing manual effort by more than 90%</li>
+            <li className='font-extralight'> - Contributed to different Proof of Concepts</li>
 
         </p>
     </li>
@@ -47,10 +47,10 @@ const WorkExperience = () => {
         <img className="w-20 p-1 m-1 mx-0 bg-white" src={Nagarro} alt="nagarro" />
         </a>
         <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Trainee Technology</h3>
-        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-        <li> - Completed trainings on Advanced Java, OOP Concepts, Spring MVC, HTML,CSS, Javascript, NodeJS, Data Structures with 91%</li>
-        <li> - Built a full-stack web based application of Travel Portal with multiple features like ticket booking and Covid tracking for Nagarrians using Spring MVC and Angular JS</li>  
-        <li> - Worked on Proof of Concepts like Text Recognition and Speech-To-Text Apps using Google ML Kit</li>
+        <p class="text-base font-extralight text-gray-500 dark:text-gray-400">
+        <li className='font-extralight'> - Completed trainings on Advanced Java, OOP Concepts, Spring MVC, HTML,CSS, Javascript, NodeJS, Data Structures with 91%</li>
+        <li className='font-extralight'> - Built a full-stack web based application of Travel Portal with multiple features like ticket booking and Covid tracking for Nagarrians using Spring MVC and Angular JS</li>  
+        <li className='font-extralight'> - Worked on Proof of Concepts like Text Recognition and Speech-To-Text Apps using Google ML Kit</li>
         </p>
     </li>
     <li class="ml-4">
@@ -60,8 +60,8 @@ const WorkExperience = () => {
         <img className="w-20 p-1 m-1 mx-0 bg-white" src={Ong} alt="nagarro" />
         </a>
         <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Intern </h3>
-        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            <li> - Developed a music library where users could add albums and songs to make a personalized library.</li>
+        <p class="text-base font-extralight text-gray-500 dark:text-gray-400">
+            <li className='font-extralight'> - Developed a music library where users could add albums and songs to make a personalized library.</li>
         </p>
     </li>
     </ol>
